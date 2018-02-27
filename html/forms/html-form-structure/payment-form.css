@@ -68,3 +68,7 @@ label em {
   right: 5px;
   top: 20px;
 }
+abbr{
+  text-decoration:none;
+}
+
